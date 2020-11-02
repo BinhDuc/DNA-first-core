@@ -1,0 +1,77 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "img": "../img/product-1.jpg",
+            "price": 9,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": 6,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": 10,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "id": 4,
+            "name": "Product 4",
+            "price": 4,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "name": "Product 5",
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss",
+            "price": 1,
+            "id": 5
+        },
+        {
+            "name": "Product 6",
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss",
+            "price": 8,
+            "id": 6
+        },
+        {
+            "id": 7,
+            "name": "Product 7",
+            "price": 9,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "id": 8,
+            "name": "Product 8",
+            "price": 8,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "id": 9,
+            "name": "Product 9",
+            "price": 10,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "id": 10,
+            "name": "Product 10",
+            "price": 4,
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss"
+        },
+        {
+            "name": "Product 11",
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss",
+            "price": 1,
+            "id": 11
+        },
+        {
+            "name": "Product 12",
+            "note": "sdsdddssssssssssssssssssssssssssssssssssssssss",
+            "price": 8,
+            "id": 12
+        }
+    ]
+}
